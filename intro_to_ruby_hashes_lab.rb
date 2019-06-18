@@ -1,6 +1,7 @@
 def monopoly
 	monopoly = {}
 	
+	monopoly[railroads] = {}
 	monopoly.keys.count = 1
 	
 	
