@@ -1,10 +1,7 @@
 def monopoly
 	monopoly = {}
 	
-	monopoly[railroads] = {}
-	monopoly.keys.count = 1
-	
-	
+	monopoly.merge!(:railroads)
 end
 
 def monopoly_with_second_tier
