@@ -1,7 +1,7 @@
 def monopoly
 	monopoly = {}
 	
-	monopoly[1] = :railroads
+	monopoly = :railroads
 	puts monopoly
 	
 end
