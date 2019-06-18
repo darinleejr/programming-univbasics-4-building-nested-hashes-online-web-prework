@@ -1,8 +1,8 @@
 def monopoly
 	monopoly = {}
 	
-	monopoly = :railroads
-	puts monopoly
+	monopoly.keys.count = 1
+	
 	
 end
 
