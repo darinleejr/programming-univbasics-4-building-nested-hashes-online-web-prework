@@ -1,7 +1,9 @@
 def monopoly
 	monopoly = {}
 	
-	monopoly[]
+	monopoly[key] = :railroads
+	puts monopoly
+	
 end
 
 def monopoly_with_second_tier
